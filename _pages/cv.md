@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Bachelor of Technology, Mechanical Engineering, Indian Institute of Technology Madras (2024)
-  * Courses: Deep Learning for Imaging, Signal Processing, Stochastic Processes, Modal Analysis, Computational Fluid Flow
+  - Courses: Deep Learning for Imaging, Signal Processing, Stochastic Processes, Modal Analysis, Computational Fluid Flow
 * Senior Secondary, National Institute of Open Schooling (2020)
 * Secondary, National Institute of Open Schooling (2020)
 
@@ -26,3 +26,33 @@ Scholastic Achievements
   - Placed among the top 75 students in India in the Indian National Mathematics Olympiad conducted by the Homi Bhabha Centre for Science Education, in the year 2019.
 * International Collegiate Programming Contest
   - Secured the first and third positions in ACM ICPC for schools, in the year 2018 and 2019 respectively.
+* Joint Entrance Examination (Advanced)
+  - Secured an All India Rank of 1684 among 1.5+ lakh students in Joint Entrance Examination Advanced (JEE Advanced) in the year 2020.
+
+Positions of Responsibility
+======
+* Convener, InterIIT Tech Meet 12.0
+* Head, Analytics Club
+* Coordinator, Analytics Club
+* Coordinator, Events, Shaastra
+* Academic Strategist, Avanti Fellows
+
+Teaching
+======
+## TAship
+
+- ID2090
+- System Commands (online BSc)
+
+## Mentoring
+
+- Saathi Mentor
+- Avanti Mentor
+
+## Workshops
+
+- CFI Summer School
+- CFI Expansion Program - TKM Workshop
+- Analytics Club Epochs
+- Shaastra Junior Workshop
+- Shaastra Workshops
