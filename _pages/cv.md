@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "Background"
+title: "Background"
 permalink: /background/
 author_profile: true
 redirect_from:
