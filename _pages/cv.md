@@ -40,19 +40,14 @@ Positions of Responsibility
 Teaching
 ======
 ## TAship
-
-- ID2090
-- System Commands (online BSc)
-
+* ID2090
+* System Commands (online BSc)
 ## Mentoring
-
-- Saathi Mentor
-- Avanti Mentor
-
+* Saathi Mentor
+* Avanti Mentor
 ## Workshops
-
-- CFI Summer School
-- CFI Expansion Program - TKM Workshop
-- Analytics Club Epochs
-- Shaastra Junior Workshop
-- Shaastra Workshops
+* CFI Summer School
+* CFI Expansion Program - TKM Workshop
+* Analytics Club Epochs
+* Shaastra Junior Workshop
+* Shaastra Workshops
