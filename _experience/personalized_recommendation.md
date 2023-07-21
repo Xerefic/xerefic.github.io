@@ -3,7 +3,6 @@ title: "User Personalization for Link Recommendation"
 collection: experience
 permalink: /publication/microsoft_intern_2
 excerpt: ''
-date: 2023-07
 venue: 'MSAI, Microsoft India'
 ---
 

@@ -3,7 +3,6 @@ title: "Shared Web-Link Classification for Recommendation"
 collection: experience
 permalink: /publication/microsoft_intern_1
 excerpt: ''
-date: 2023-07
 venue: 'MSAI, Microsoft India'
 ---
 
