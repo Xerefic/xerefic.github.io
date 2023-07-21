@@ -2,7 +2,7 @@
 title: "User Personalization for Link Recommendation"
 collection: experience
 permalink: /publication/microsoft_intern_2
-excerpt: ''
+excerpt: 'A Re-ranking strategy for improving recommendations for the User'
 venue: 'MSAI, Microsoft India'
 ---
 
