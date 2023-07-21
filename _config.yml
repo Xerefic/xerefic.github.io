@@ -175,7 +175,16 @@ kramdown:
 
 # Collections
 collections:
-  projects:
+  course_projects:
+    output: true
+    permalink: /:collection/:path/
+  academic_projects:
+    output: true
+    permalink: /:collection/:path/
+  competitions:
+    output: true
+    permalink: /:collection/:path/
+  implementations:
     output: true
     permalink: /:collection/:path/
   professional_experience:
@@ -188,10 +197,37 @@ collections:
 
 # Defaults
 defaults:
-  # _projects
+  # _course_projects
   - scope:
       path: ""
-      type: projects
+      type: course_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _academic_projects
+  - scope:
+      path: ""
+      type: academic_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _competitions
+  - scope:
+      path: ""
+      type: competitions
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _implementations
+  - scope:
+      path: ""
+      type: implementations
     values:
       layout: single
       author_profile: true
