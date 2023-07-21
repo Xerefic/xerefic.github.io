@@ -40,6 +40,8 @@
 
         {% if post.collection == 'course_projects' %}
           <p> <i>{{ post.course }}, {{ post.semester }}</i> </p>
+        {% elsif post.collection == 'academic_projects' %}
+          <p> <i>{{ post.course }}</i> </p>
         {% elsif post.collection == 'competitions' %}
           <p> {{ post.type }} </p>
         {% elsif post.collection == 'professional_experience' %}
