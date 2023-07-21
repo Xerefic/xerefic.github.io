@@ -39,6 +39,7 @@ Positions of Responsibility
 
 Teaching
 ======
+
 ## TAship
 * ID2090
 * System Commands (online BSc)
