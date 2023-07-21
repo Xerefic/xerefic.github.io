@@ -43,7 +43,7 @@
         {% elsif post.collection == 'academic_projects' %}
           <p> <i>{{ post.course }}</i> </p>
         {% elsif post.collection == 'competitions' %}
-          <p> {{ post.type }} </p>
+          <p> <i>{{ post.type }}</i> </p>
         {% elsif post.collection == 'professional_experience' %}
           <p>{{ post.role }}, <i>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</i> </p>
         {% elsif post.collection == 'research_experience' %}
