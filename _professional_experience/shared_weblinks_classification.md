@@ -4,6 +4,7 @@ collection: experience
 permalink: /experience/microsoft_intern_1
 excerpt: 'Identtifying Recommendable Links using a robost URL encoder'
 venue: 'MSAI, Microsoft India'
+date: 2023-07-01
 ---
 
 - Developed a robust encoder for URLs that conditionally adapts to the presence of enrichments without any compromise on performance on multiple downstream tasks.

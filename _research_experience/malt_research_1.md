@@ -4,6 +4,7 @@ collection: experience
 permalink: /experience/male_research_1
 excerpt: 'Explaining the performance of Deep Linear Networks though gradients'
 venue: 'Machine Learning Theory Lab'
+date: 2022-07-01
 ---
 
 Guides: Prof. Chandrashekar Lakshminarayanan, Prof. Harish Guruprasad

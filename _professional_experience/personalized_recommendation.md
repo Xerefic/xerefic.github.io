@@ -4,6 +4,7 @@ collection: experience
 permalink: /experience/microsoft_intern_2
 excerpt: 'A Re-ranking strategy for improving recommendations for the User'
 venue: 'MSAI, Microsoft India'
+date: 2023-07-01
 ---
 
 - Proposed a re-ranking strategy for improving top-topics obtained from the AI Graph of the user for improving personalized recommendations of shared web-links.
