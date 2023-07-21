@@ -21,7 +21,7 @@ Scholastic Achievements
 * International Olympiad for Informatics
   - Placed among the top 25 students in India in International Olympiad for Informatics conducted by Indian Association for Research in Computing Science, in the year 2018.
 * KVPY Fellowship
-  - Secured an All India Rank of 238 and awarded the Kishore Vaigyanik Protsahan Yojana Fellowship in the SA category, in the year 2018.
+  - Secured an All India Rank of 238 and awarded the Kishore Vaigyanik Protsahan Yojana Fellowship in the SA category, in the year 2019.
 * Indian National Mathematics Olympiad
   - Placed among the top 75 students in India in the Indian National Mathematics Olympiad conducted by the Homi Bhabha Centre for Science Education, in the year 2019.
 * International Collegiate Programming Contest
@@ -42,9 +42,11 @@ Teaching
 ## TAship
 * ID2090
 * System Commands (online BSc)
+
 ## Mentoring
 * Saathi Mentor
 * Avanti Mentor
+
 ## Workshops
 * CFI Summer School
 * CFI Expansion Program - TKM Workshop
