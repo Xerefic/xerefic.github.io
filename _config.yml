@@ -178,7 +178,10 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  experience:
+  professional_experience:
+    output: true
+    permalink: /:collection/:path/
+  research_experience:
     output: true
     permalink: /:collection/:path/
 
