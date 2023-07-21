@@ -9,15 +9,15 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Education
-======
+<h2>Education</h2>
+
 * Bachelor of Technology, Mechanical Engineering, Indian Institute of Technology Madras (2024)
   - Courses: Deep Learning for Imaging, Signal Processing, Stochastic Processes, Modal Analysis, Computational Fluid Flow
 * Senior Secondary, National Institute of Open Schooling (2020)
 * Secondary, National Institute of Open Schooling (2020)
 
-Scholastic Achievements
-======
+<h2>Scholastic Achievements</h2>
+
 * International Olympiad for Informatics
   - Placed among the top 25 students in India in International Olympiad for Informatics conducted by Indian Association for Research in Computing Science, in the year 2018.
 * KVPY Fellowship
@@ -29,26 +29,26 @@ Scholastic Achievements
 * Joint Entrance Examination (Advanced)
   - Secured an All India Rank of 1684 among 1.5+ lakh students in Joint Entrance Examination Advanced (JEE Advanced) in the year 2020.
 
-Positions of Responsibility
-======
+<h2>Positions of Responsibility</h2>
+
 * Convener, InterIIT Tech Meet 12.0
 * Head, Analytics Club
 * Coordinator, Analytics Club
 * Coordinator, Events, Shaastra
 * Academic Strategist, Avanti Fellows
 
-Teaching
-======
 
-## TAship
+<h2>Teaching</h2>
+
+<h3>TA-ship</h3>
 * ID2090
 * System Commands (online BSc)
 
-## Mentoring
+<h3>Mentoring</h3>
 * Saathi Mentor
 * Avanti Mentor
 
-## Workshops
+<h3>Workshops</h3>
 * CFI Summer School
 * CFI Expansion Program - TKM Workshop
 * Analytics Club Epochs
