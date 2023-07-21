@@ -2,7 +2,7 @@
 title: "Shared Web-Link Classification for Recommendation"
 collection: experience
 permalink: /experience/microsoft_intern_1
-excerpt: 'Identtifying Recommendable Links using a robost URL encoder.'
+excerpt: 'Identtifying Recommendable Links using a robost URL encoder'
 venue: 'MSAI, Microsoft India'
 ---
 
