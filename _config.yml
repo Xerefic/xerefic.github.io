@@ -194,15 +194,25 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _experience
+  # _professional_experience
   - scope:
       path: ""
-      type: experience
+      type: professional_experience
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
+  # _research_experience
+  - scope:
+      path: ""
+      type: research_experience
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
 
 # Sass/SCSS
 sass:
