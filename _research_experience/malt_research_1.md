@@ -3,6 +3,7 @@ title: "Understanding Deep Linear Networks"
 collection: experience
 permalink: /experience/male_research_1
 excerpt: 'Explaining the performance of Deep Linear Networks though gradients'
+role: 'Undergraduate Researcher'
 venue: 'Machine Learning Theory Lab'
 date: 2022-07-01
 ---
