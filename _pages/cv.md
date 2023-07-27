@@ -12,7 +12,7 @@ redirect_from:
 <h2>Education</h2>
 
 * Bachelor of Technology, Mechanical Engineering, Indian Institute of Technology Madras (2024)
-  - Courses: Deep Learning for Imaging, Signal Processing, Stochastic Processes, Modal Analysis, Computational Fluid Flow
+  - Courses: Deep Learning for Imaging, Multi-Armed Bandits, Pattern Recognition and Machine Learning, Signal Processing, Stochastic Processes, Modal Analysis, Computational Heat and Fluid Flow, Finite Element Analysis
 * Senior Secondary, National Institute of Open Schooling (2020)
 * Secondary, National Institute of Open Schooling (2020)
 
