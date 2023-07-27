@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Portfolio Website"
 excerpt: "About Me"
