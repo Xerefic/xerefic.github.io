@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Portfolio Website"
+title: "About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
