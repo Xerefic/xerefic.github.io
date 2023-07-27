@@ -11,4 +11,4 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Placeholder text.
+Hey! I like working on Deep Learning research specifically the theoritical aspects. I am currently a senior at IIT Madras. I currently work with Prof. Chandrasekhar. During the Summer '23, I was fortunate to intern at MSAI, Microsoft. You can reach out to me through email.
