@@ -6,4 +6,4 @@ excerpt: ''
 type: 'Hackathon'
 ---
 
-- Built a tool to ease the research workflow that analyses historic stocks coupled with qualitative indicators to predict important performance indicators for institutional investors.
+- Built a research workflow tool that analyses historic stocks and qualitative indicators, predicting essential performance indicators for institutional investors.

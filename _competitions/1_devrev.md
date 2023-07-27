@@ -6,4 +6,4 @@ excerpt: ''
 type: 'InterIIT Tech Meet 11.0, High Prep'
 ---
 
-- Developed a low-latency three-stage ensemble retrieval pipeline and a novel fine-tuning strategy to improve domain-specific question answering.
+- Developed an efficient three-stage ensemble retrieval pipeline and a novel fine-tuning strategy to enhance domain-specific question answering.

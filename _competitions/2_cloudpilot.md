@@ -6,4 +6,4 @@ excerpt: ''
 type: 'Hackathon'
 ---
 
--  Built a self-guided co-pilot that exploits a domain-specific network to hallucinate highly optimized cloud architectures through retrieval augmented generation.
+- Built a self-guided co-pilot employing a domain-specific network to generate highly optimised cloud architectures through retrieval-augmented generation.

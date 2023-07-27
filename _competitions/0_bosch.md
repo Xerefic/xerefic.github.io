@@ -6,4 +6,4 @@ excerpt: ''
 type: 'InterIIT Tech Meet 10.0, High Prep'
 ---
 
-- Proposed a novel black-box technique to distill pre-trained models that leverages a class-conditioned synthetic data generator and identify a sparse sub-network that outperforms the teacher.
+- Introduced a novel black-box technique for distilling pre-trained models, leveraging a class-conditioned synthetic data generator, and identifying a sparse sub-network that surpasses the teacher model's performance.
