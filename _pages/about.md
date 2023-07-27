@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+<!-- {% include base_path %} -->
+
 Placeholder text.

@@ -10,5 +10,5 @@ date: 2022-07-01
 
 Guides: Prof. Chandrashekar Lakshminarayanan, Prof. Harish Guruprasad
 
-- Working on understanding the roles of Activations, Neural Path Kernels and Tangent Kernels in Deep Linear Networks.
-- Examined the effects of over-parameterization on the implicit acceleration of training Deep Linear Networks.
+- Currently researching the roles of Activations, Neural Path Kernels, and Tangent Kernels in Deep Linear Networks.
+- Investigating the impact of over-parameterisation on the implicit acceleration of training Deep Linear Networks.
