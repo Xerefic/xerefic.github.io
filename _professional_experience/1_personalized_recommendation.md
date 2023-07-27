@@ -2,7 +2,7 @@
 title: "User Personalization for Link Recommendation"
 collection: experience
 permalink: /experience/microsoft_intern_2
-excerpt: 'A Re-ranking strategy for improving recommendations for the User'
+excerpt: 'Enhancing User Link Recommendations through Re-ranking and Interest Vector Aggregation'
 role: 'Data & Applied Scientist Intern'
 venue: 'MSAI, Microsoft India'
 date: 2023-07-01
